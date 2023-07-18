@@ -1,0 +1,22 @@
+
+Everything!
+
+
+Pipenv.
+
+
+Debugging with ipdb.
+
+
+Class syntax.
+
+
+When & where to use properties.
+
+
+Relationships.
+
+
+Circular Imports?
+
+
